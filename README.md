@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# IMC Pro: Monitoramento e Bem-Estar
 
-`CURSO`
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 03 - 2025/1`
 
-`SEMESTRE`
+`2025/1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Arthur Messeder Jacques 
+Hideki Yukinory Pacheco Ishi 
+Johnata de Souza do Amparo 
+Matheus Henrique Pereira Cruz  
+Sara Christine Mendoza 
 
 ## Orientador
 
-* Nome completo do professor 1
+Viviâne de Almeida Tôrres
 
 ## Instruções de utilização
 
