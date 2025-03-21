@@ -10,11 +10,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-Arthur Messeder Jacques 
-Hideki Yukinory Pacheco Ishi 
-Johnata de Souza do Amparo 
-Matheus Henrique Pereira Cruz  
-Sara Christine Mendoza 
+* Arthur Messeder Jacques 
+* Hideki Yukinory Pacheco Ishi 
+* Johnata de Souza do Amparo 
+* Matheus Henrique Pereira Cruz  
+* Sara Christine Mendoza 
 
 ## Orientador
 
