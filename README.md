@@ -30,7 +30,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Documentação
 
 <ol>
-<li><a href="https://onedrive.live.com/edit?id=CE49F6535FB0F863!s9f8ec74fbd534dc1b88d118e3c212ce3&resid=CE49F6535FB0F863!s9f8ec74fbd534dc1b88d118e3c212ce3&cid=ce49f6535fb0f863&ithint=file%2Cdocx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9jZTQ5ZjY1MzVmYjBmODYzL0VVX0hqcDlUdmNGTnVJMFJqandoTE9NQkdMOFcydnpzcGk0akZVLXpSRkJxY0E_ZT1uaEFIazA&migratedtospo=true&wdo=2"> Documentação de Contexto</a></li>
+<li><a href="id=CE49F6535FB0F863!s9f8ec74fbd534dc1b88d118e3c212ce3&resid=CE49F6535FB0F863!s9f8ec74fbd534dc1b88d118e3c212ce3&cid=ce49f6535fb0f863&ithint=file%2Cdocx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9jZTQ5ZjY1MzVmYjBmODYzL0VVX0hqcDlUdmNGTnVJMFJqandoTE9NQkdMOFcydnpzcGk0akZVLXpSRkJxY0E_ZT1uaEFIazA&migratedtospo=true&wdo=2"> Documentação de Contexto</a></li>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
