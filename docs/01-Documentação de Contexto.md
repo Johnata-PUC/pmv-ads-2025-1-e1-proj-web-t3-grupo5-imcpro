@@ -1,6 +1,8 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A preocupação com a saúde e o bem-estar tem se tornado cada vez mais relevante nos dias de hoje. A rotina corrida e hábitos alimentares inadequados podem afetar a qualidade de vida, tornando essencial o acesso a ferramentas que incentivem a adoção de um estilo de vida equilibrado. 
+
+Neste contexto, o IMC Pro surge como uma plataforma acessível, fornecendo informações valiosas sobre saúde e monitoramento do Índice de Massa Corporal (IMC). A plataforma oferecerá calculadoras, conteúdo educativo e dicas personalizadas para ajudar os usuários a buscarem uma vida mais saudável.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
